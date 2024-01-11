@@ -25,22 +25,20 @@ About Meeee <img src="https://media.giphy.com/media/Xew5sq77hJ3k2OCdZL/giphy.gif
 My Skillset <img src="https://media.giphy.com/media/FCxH5v877DYFPQLHO5/giphy.gif" width="50">
 ---
 ### **Languages**
-<img src="./icons/rust.svg" width="48">
-<img src="./icons/golang.svg" width="48">
-<img src="./icons/python-Dark.svg" width="48">
+<img src="./icons/Rust.svg" width="48"> <img src="./icons/GoLang.svg" width="48">
+<img src="./icons/Python-Dark.svg" width="48">
 <img src="./icons/CPP.svg" width="48">
-<img src="./icons/javaScript.svg" width="48">
+<img src="./icons/JavaScript.svg" width="48">
 
 ### **Tools/Libaries**
-<img src="./icons/git.svg" width="48">
-<img src="./icons/bash-Dark.svg" width="48">
-<img src="./icons/vscode-Dark.svg" width="48">
-<img src="./icons/docker.svg" width="48">
-<img src="./icons/css.svg" width="48">
-<img src="./icons/bootstrap.svg" width="48">
+<img src="./icons/Git.svg" width="48"> <img src="./icons/Bash-Dark.svg" width="48">
+<img src="./icons/VSCode-Dark.svg" width="48">
+<img src="./icons/Docker.svg" width="48">
+<img src="./icons/CSS.svg" width="48">
+<img src="./icons/Bootstrap.svg" width="48">
 <img src="./icons/p5js.svg" width="48">
-<img src="./icons/photoshop.svg" width="48">
-<img src="./icons/arduino.svg" width="48">
+<img src="./icons/Photoshop.svg" width="48">
+<img src="./icons/Arduino.svg" width="48">
 
 
 

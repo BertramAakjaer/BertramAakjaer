@@ -1,5 +1,5 @@
 # Heyy, I'm **Bertram** !!  <img src="https://media.giphy.com/media/L2fhrK3Jpual0S9SLE/giphy.gif" width="95">
-_Currently studying at_ [NEXT Sukkertoppen Gymnasium](https://nextkbh.dk/gymnasier/sukkertoppen-gymnasium/)
+_Currently on my BSc in Cybersecurity at_ [Aalborg Universitet CPH](https://www.aau.dk/)
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/BertramAakjaer?style=social)](https://twitter.com/BertramAakjaer)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Bertram_Aakjær-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bertram-aakjær/)](https://www.linkedin.com/in/bertram-aakj%C3%A6r/)
@@ -10,12 +10,10 @@ _Currently studying at_ [NEXT Sukkertoppen Gymnasium](https://nextkbh.dk/gymnasi
 About Meeee <img src="https://media.giphy.com/media/Xew5sq77hJ3k2OCdZL/giphy.gif" width="35">
 ---
 
-- Im currently working on improving my _skillz_ in rust and go(lang)
+- Im currently working on improving my _skillz_ in rust and C, but in uni and with home projects
 
-- Im kinda new to programming, so dont expect tooooo much of my programs lol
+- Im a newbie in terms of programmering, so mby don't excpect the most perfect syntax 😓
 
-- Im always open for working with people, so feel free to dm or write an email to any of my linked profiles
+- Im always open for working with people, so feel free to write an email or dm me on any of my linked profiles!
 
-- Visit my website for more info [aakjaer.site](https://www.aakjaer.site) `It will be updated later, i just don't have the time at the moment :'(`
-
-- When i ain't in school im probaly at work flipping burgers <img src="https://media.giphy.com/media/2ysK0aTLbiQ92/giphy.gif" width="15">
+- Visit my website for more info and _coool_ dezign [aakjaer.site](https://www.aakjaer.site)

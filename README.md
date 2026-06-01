@@ -14,6 +14,6 @@ About Meeee <img src="https://media.giphy.com/media/Xew5sq77hJ3k2OCdZL/giphy.gif
 
 - I would appreciate feedback or contribution on any relevant projects im working on so be sure to reach out!
 
-- Im always open for networking with people, so feel free to write an [email](mailto://work.aakjaer@gmail.com) or dm me on any of my linked profiles!
+- Im always open for networking with people, so feel free to write an [email](mailto://work.aakjaer@gmail.com) or dm me on any of my linked profiles, like <a rel="me" href="https://mastodon.social/@baakjaer">Mastodon</a>!
 
 - Visit my website for more info and _coool_ dezign [aakjaer.site](https://www.aakjaer.site)

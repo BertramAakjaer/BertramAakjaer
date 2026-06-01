@@ -10,10 +10,10 @@ _Currently on my eng.prof.bach in Cybersecurity at_ [Aalborg Universitet CPH](ht
 About Meeee <img src="https://media.giphy.com/media/Xew5sq77hJ3k2OCdZL/giphy.gif" width="35">
 ---
 
-- Im currently working on improving my own programming level in rust with small project
+- Im currently working on improving my own programming level in Go with small projects and my education.
 
-- I would appreciate feedback on any relevant projects im working on so be sure to reach out!
+- I would appreciate feedback or contribution on any relevant projects im working on so be sure to reach out!
 
-- Im always open for networking with people, so feel free to write an email or dm me on any of my linked profiles!
+- Im always open for networking with people, so feel free to write an [email](mailto://work.aakjaer@gmail.com) or dm me on any of my linked profiles!
 
 - Visit my website for more info and _coool_ dezign [aakjaer.site](https://www.aakjaer.site)

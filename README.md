@@ -1,5 +1,7 @@
 # Heyy, I'm **Bertram** !!  <img src="https://media.giphy.com/media/L2fhrK3Jpual0S9SLE/giphy.gif" width="95">
 _Currently on my bachelor in Computer Science at_ [Copenhagen University](https://www.ku.dk/).
+
+
 I have switched from GitHub to Forgejo hosted on Codeberg.org and all my new project can be found at [https://codeberg.org/BertramAakjaer](https://codeberg.org/BertramAakjaer).
 
 [![Bertram Aakjær](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/bertram-aakjær/)
